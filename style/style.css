@@ -1,0 +1,29 @@
+.nav-item a{
+    color: black;
+    transition: 0.3;
+
+}
+.nav-item a:hover{
+    color: #ff7900;
+}
+form{
+    width: 50%;
+    margin: auto;
+}
+
+  
+    .btn{
+        margin:10px auto 5px;
+        width: 100%;
+        background-color: #ff7900 !important;
+        border: none;
+        color: black;
+        font-weight: bold;
+        height: 50px;
+        
+        
+
+}
+span{
+    color: #ff7900;
+}
